@@ -1,0 +1,20 @@
+input{
+    margin-right: 30px;
+    margin-top: 30px;
+    padding: 10px;
+    border: 2px solid grey;
+    background-image: url('photos/d.png');
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: 5px;
+    padding-left: 45px;
+    font-size: 25px;
+    font-family: 'League Gothic', sans-serif;
+}
+textarea{
+    border: 2px dashed grey;
+    background-color: aliceblue;
+}
+textarea:focus{
+    border: 2px dashed gray;
+}
